@@ -3,9 +3,9 @@
 <h3 align="center">Information Technology Engineer, developer and curious about computer security.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cornejoquintana" alt="cornejoquintana" /> </p>
 
-- 👨‍💻 All of my projects are available at [this profile](this profile)
+- 👨‍💻 All of my projects are available at this profile
 
-- 📝 I regulary write articles on [software and technology development](software and technology development)
+- 📝 I regulary write articles on software and technology development
 
 - 💬 Ask me about **Java, Linux, MongoDB, SQL**
 
@@ -17,7 +17,7 @@
 <a href="https://dev.to/cornejoquintana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cornejoquintana" height="20" width="20" /></a>
 <a href="https://twitter.com/cornejoquintana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cornejoquintana" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/cornejoquintana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cornejoquintana" height="20" width="20" /></a>
-<a href="https://fb.com/ivan cornejo quintana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ivan cornejo quintana" height="20" width="20" /></a>
+<a href="https://fb.com/cornejo.quintana.ivan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ivan cornejo quintana" height="20" width="20" /></a>
 <a href="https://instagram.com/cornejoquintana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cornejoquintana" height="20" width="20" /></a>
 </p>
 
