@@ -18,7 +18,7 @@
 <a href="https://twitter.com/cornejoquintana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cornejoquintana" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/cornejoquintana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cornejoquintana" height="20" width="20" /></a>
 <a href="https://fb.com/cornejo.quintana.ivan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ivan cornejo quintana" height="20" width="20" /></a>
-<a href="https://instagram.com/cornejoquintana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cornejoquintana" height="20" width="20" /></a>
+<a href="https://instagram.com/icornejoquintana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cornejoquintana" height="20" width="20" /></a>
 </p>
 
 <!--
