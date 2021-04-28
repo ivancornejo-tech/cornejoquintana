@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cornejoquintana?tab=repositories](https://github.com/cornejoquintana?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.hokisoft.com](https://www.hokisoft.com)
+- 📝 I regularly write articles on [https://www.cornejoquintana.com](https://www.cornejoquintana.com)
 
 - 💬 Ask me about **Java, PHP, MYSQL, MongoDB, Python and GNU/Linux**
 
