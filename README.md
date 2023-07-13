@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cornejoquintana&label=Profile%20views&color=0e75b6&style=flat" alt="cornejoquintana" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cornejoquintana" target="blank"><img src="https://img.shields.io/twitter/follow/cornejoquintana?logo=twitter&style=for-the-badge" alt="cornejoquintana" /></a> </p>
+<p align="left"> <a href="https://twitter.com/soyivancornejo" target="blank"><img src="https://img.shields.io/twitter/follow/soyivancornejo?logo=twitter&style=for-the-badge" alt="soyivancornejo" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Framework, Kotlin and Node.js**
 
@@ -19,10 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/cornejoquintana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cornejoquintana" height="30" width="40" /></a>
-<a href="https://twitter.com/cornejoquintana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cornejoquintana" height="30" width="40" /></a>
+<a href="https://twitter.com/soyivancornejo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cornejoquintana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cornejoquintana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cornejoquintana" height="30" width="40" /></a>
-<a href="https://fb.com/cornejoquintanaivan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cornejoquintanaivan" height="30" width="40" /></a>
-<a href="https://instagram.com/cornejoquintanaivan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cornejoquintanaivan" height="30" width="40" /></a>
+<a href="https://fb.com/soyivancornejo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cornejoquintanaivan" height="30" width="40" /></a>
+<a href="https://instagram.com/soyivancornejo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cornejoquintanaivan" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cornejoquintana&show_icons=true&locale=en&layout=compact" alt="cornejoquintana" /></p>
